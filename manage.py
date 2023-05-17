@@ -1,5 +1,6 @@
-#!/usr/bin/env python
-"""Django's command-line utility for administrative tasks."""
+# project name      : django marketplace
+# project author    : mindula dilthushan
+# author email      : minduladilthushan1@gmail.com
 import os
 import sys
 
